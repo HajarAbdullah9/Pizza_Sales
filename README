@@ -1,0 +1,6 @@
+1st of all I used Microsoft SQL Server Management Studio to do some queries for the KPI's and the project requirements as total revenue, total orders, Daily trend for total orders and other requests,
+then we applied these calculated quantities in PowerBi Desktop as a measure, after i compared the measured results with Msc SQL results
+Finally, i created two dashboards one of them was under the home name, and included most of the calculated measures. On the other hand, the 2nd page was about the best and the worst sellers
+I conducted that by showing up the 5 top them as best sellers and 5 lowest/lowest sellers, as well as writing the interpretation of the gaining results that was
+putten on the left side of the visualized report.
+
